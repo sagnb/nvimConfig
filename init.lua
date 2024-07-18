@@ -17,3 +17,6 @@ end
 
 require "lazy_setup"
 require "polish"
+
+vim.opt.listchars = {eol = '↵', trail = '~', tab = '=>', space = '.'}
+vim.opt.list = true

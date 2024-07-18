@@ -12,6 +12,7 @@ require("lazy").setup({
     },
   },
   { 'Mofiqul/dracula.nvim' },
+  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
   { import = "community" },
   { import = "plugins" },
 } --[[@as LazySpec]], {
