@@ -12,7 +12,7 @@ return {
   opts = {
     -- change colorscheme
     -- colorscheme = "dracula",
-    colorscheme = "astromars",
+    colorscheme = "sonokai",
     -- colorscheme = "astrodark",
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
     highlights = {
