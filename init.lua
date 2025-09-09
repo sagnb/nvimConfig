@@ -20,3 +20,7 @@ require "polish"
 
 vim.opt.listchars = { eol = "↵", tab = "◼◼", space = "·" }
 vim.opt.list = true
+
+vim.o.wrap = true
+vim.o.linebreak = true
+vim.o.showbreak = "↪ "
